@@ -97,4 +97,4 @@ This will analyze the position described by the FEN string, from the Black playe
 
 Credits 🙏
 Stockfish: The powerful chess engine that provides the evaluations. Stockfish is one of the strongest chess engines in the world and is used for analyzing positions and games.
-Aditya Kharmale: The developer of this tool. It took some time to realize that Stockfish is way smarter than me! 😅
+Aditya Kharmale: The developer of this tool.
