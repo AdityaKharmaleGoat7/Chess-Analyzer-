@@ -22,7 +22,7 @@ cd ChessAnalyzer
 
 
 
-2. Install dependencies:
+### 2. Install dependencies:
 Make sure you have Python 3.x installed on your system. Install the required Python libraries by running the following command:
 
 bash
