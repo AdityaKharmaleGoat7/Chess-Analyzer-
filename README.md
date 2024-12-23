@@ -16,7 +16,7 @@
 To get started, first clone the repository to your local machine. Open your terminal/command prompt and run:
 
 ```bash
-git clone https://github.com/yourusername/ChessAnalyzer.git
+git clone https://github.com/AdityaKharmaleGoat7/Chess-Analyzer-.git
 cd ChessAnalyzer
 
 
