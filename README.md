@@ -12,7 +12,7 @@
 
 ## Installation 🚀
 
-### 1. Clone the repository:
+1. Clone the repository:
 To get started, first clone the repository to your local machine. Open your terminal/command prompt and run:
 
 ```bash
@@ -22,7 +22,7 @@ cd ChessAnalyzer
 
 
 
-### 2. Install dependencies:
+2. Install dependencies:
 Make sure you have Python 3.x installed on your system. Install the required Python libraries by running the following command:
 
 bash
