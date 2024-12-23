@@ -1,0 +1,22 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/aPkI2Uwr"]
+[Date "2024.12.20"]
+[White "Goat7_AK"]
+[Black "jasamuel"]
+[Result "1-0"]
+[UTCDate "2024.12.20"]
+[UTCTime "11:06:45"]
+[WhiteElo "1159"]
+[BlackElo "1193"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:58] } 2... Nc6 { [%clk 0:04:59] } 3. d4 { [%clk 0:04:57] } { C44 Scotch Game } 3... f5 { [%clk 0:04:58] } 4. d5 { [%clk 0:04:54] } 4... fxe4 { [%clk 0:04:54] } 5. dxc6 { [%clk 0:04:52] } 5... exf3 { [%clk 0:04:53] } 6. cxd7+ { [%clk 0:04:50] } 6... Qxd7 { [%clk 0:04:48] } 7. Qxf3 { [%clk 0:04:48] } 7... Nf6 { [%clk 0:04:41] } 8. Nc3 { [%clk 0:04:43] } 8... Bb4 { [%clk 0:04:36] } 9. Bd2 { [%clk 0:04:35] } 9... a6 { [%clk 0:04:29] } 10. a3 { [%clk 0:04:25] } 10... Ba5 { [%clk 0:04:15] } 11. Bc4 { [%clk 0:04:02] } 11... b5 { [%clk 0:04:00] } 12. Bb3 { [%clk 0:03:49] } 12... c6 { [%clk 0:03:47] } 13. Bg5 { [%clk 0:03:39] } 13... Qe6 { [%clk 0:03:38] } 14. O-O { [%clk 0:03:27] } 14... Qg4 { [%clk 0:03:21] } 15. Qxc6+ { [%clk 0:03:18] } 15... Bd7 { [%clk 0:03:16] } 16. Qxa8+ { [%clk 0:03:14] } 16... Bd8 { [%clk 0:03:11] } 17. Bxf6 { [%clk 0:03:11] } 17... gxf6 { [%clk 0:03:06] } 18. Rad1 { [%clk 0:03:07] } 18... Rg8 { [%clk 0:03:03] } 19. Bxg8 { [%clk 0:03:05] } { Black resigns. } 1-0
+
+
